@@ -6,4 +6,4 @@
 #### 😄 컨셉서 : <a href="_피그마_"><img src="https://img.shields.io/badge/블로그-beige??style=for-the-badge&logo=Storyblok&logoColor=09B3AF"/></a>
 #### 😄 시안링크 : <a href="_피그마_"><img src="https://img.shields.io/badge/블로그-beige??style=for-the-badge&logo=Storyblok&logoColor=09B3AF"/></a>
 
-![앱 프로젝트 : MML ](./images/cover.png)
+![앱 프로젝트 : MML ](./images/MML_concept.png)
